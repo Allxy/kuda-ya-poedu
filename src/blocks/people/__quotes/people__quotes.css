@@ -2,8 +2,16 @@
     margin: 0;
     display: flex;
     flex-wrap: wrap;
-    gap: 70px;
+    justify-content: space-between;
+    gap: 20px;
 }
+@media screen and (max-width: 880px) {
+    .people__quotes { 
+        justify-content: space-around;
+        gap: 50px;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .people__quotes { 
         justify-content: center;

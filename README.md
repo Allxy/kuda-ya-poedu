@@ -17,5 +17,5 @@
 
 ## Ссылки:
 
-Проект на [GitHub Pages](https://allxy.github.io/kuda-ya-poedu/)
-Бриф [GitHub Pages](https://github.com/Allxy/kuda-ya-poedu/tree/master/brief)
+- Проект на [GitHub Pages](https://allxy.github.io/kuda-ya-poedu/)
+- [Бриф](https://github.com/Allxy/kuda-ya-poedu/tree/master/brief)
